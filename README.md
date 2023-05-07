@@ -1,5 +1,5 @@
 ### "The treasure you seek is in the cave you fear to enter"
--Joseph Campbell
+### -Joseph Campbell
 
 <!--
 **0xMarsyas/0xMarsyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
