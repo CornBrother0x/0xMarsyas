@@ -1,6 +1,6 @@
 ![Marsyas_isle_of_the_dead_by_bockler_there_is_a_cave_on_the_isla_3eae6459-3133-49ba-a7c3-32b55df0a8b4](https://user-images.githubusercontent.com/101160087/236653673-f60c6194-45df-4d88-8b1d-1e7ca720d857.png)
 
-# "The treasure you seek is in the cave you fear to enter" -Joseph Campbell
+### "The treasure you seek is in the cave you fear to enter" -Joseph Campbell
 
 <!--
 **0xMarsyas/0xMarsyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
