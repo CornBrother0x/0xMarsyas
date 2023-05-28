@@ -7,10 +7,10 @@
        -Joseph Campbell
        
        
-http://gpetto.biz
-http://divinenymphs.com
-https://fries.fund
-https://www.launchcodecapital.com/
+       http://gpetto.biz
+       http://divinenymphs.com
+       https://fries.fund
+       https://www.launchcodecapital.com/
 
 
 <!--
