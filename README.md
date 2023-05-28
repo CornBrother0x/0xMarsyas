@@ -6,11 +6,6 @@
        "The treasure you seek is in the cave you fear to enter" 
        -Joseph Campbell
        
-       
-       http://gpetto.biz
-       http://divinenymphs.com
-       https://fries.fund
-       https://www.launchcodecapital.com/
 
 
 <!--
