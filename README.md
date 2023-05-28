@@ -1,6 +1,5 @@
+<img width="1098" alt="Screenshot 2023-05-28 at 6 08 48 PM" src="https://github.com/0xMarsyas/0xMarsyas/assets/101160087/a29de8eb-5ad2-4899-b282-f791ddd1bbc6">
 
-       
-![Marsyas_isle_of_the_dead_by_bockler_there_is_a_cave_on_the_isla_3eae6459-3133-49ba-a7c3-32b55df0a8b4](https://user-images.githubusercontent.com/101160087/236653947-6ccd4586-e39e-4c6c-b238-9ddb370a6fec.png)
 
        "The treasure you seek is in the cave you fear to enter" 
        -Joseph Campbell
